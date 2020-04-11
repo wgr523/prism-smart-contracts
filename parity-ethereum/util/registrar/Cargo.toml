@@ -1,0 +1,14 @@
+[package]
+description = "Registar for Parity"
+name = "registrar"
+version = "0.0.1"
+license = "GPL-3.0"
+authors = ["Parity Technologies <admin@parity.io>"]
+
+[dependencies]
+call-contract = { package = "ethcore-call-contract", path = "../../ethcore/call-contract" }
+ethabi = "9.0.1"
+ethabi-derive = "9.0.1"
+ethabi-contract = "9.0.0"
+keccak-hash = "0.4.0"
+types = { path = "../../ethcore/types", package = "common-types" }

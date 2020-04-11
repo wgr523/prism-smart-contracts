@@ -1,0 +1,56 @@
+[package]
+description = "Parity Private Transactions"
+name = "ethcore-private-tx"
+version = "1.0.0"
+license = "GPL-3.0"
+authors = ["Parity Technologies <admin@parity.io>"]
+
+[dependencies]
+account-state = { path = "../account-state" }
+client-traits = { path = "../client-traits" }
+common-types = { path = "../types" }
+derive_more = "0.14.0"
+ethabi = "9.0.1"
+ethabi-contract = "9.0.0"
+ethabi-derive = "9.0.1"
+ethcore = { path = ".." }
+ethcore-db = { path = "../db" }
+ethcore-call-contract = { path = "../call-contract" }
+ethcore-io = { path = "../../util/io" }
+ethcore-miner = { path = "../../miner" }
+ethereum-types = "0.8.0"
+ethjson = { path = "../../json" }
+fetch = { path = "../../util/fetch" }
+futures = "0.1"
+parity-util-mem = "0.3.0"
+hash-db = "0.15.0"
+keccak-hash = "0.4.0"
+keccak-hasher = { path = "../../util/keccak-hasher" }
+kvdb = "0.2"
+log = "0.4"
+machine = { path = "../machine" }
+journaldb = { path = "../../util/journaldb" }
+parity-bytes = "0.1"
+parity-crypto = { version = "0.4.2", features = ["publickey"] }
+parking_lot = "0.9"
+trie-db = "0.18.0"
+patricia-trie-ethereum = { path = "../../util/patricia-trie-ethereum" }
+registrar = { path = "../../util/registrar" }
+rlp = "0.4.0"
+rlp_derive = { path = "../../util/rlp-derive" }
+rustc-hex = "1.0"
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
+spec = { path = "../spec" }
+state-db = { path = "../state-db" }
+time-utils = { path = "../../util/time-utils" }
+tiny-keccak = "1.4"
+trace = { path = "../trace" }
+transaction-pool = "2.0.1"
+url = "2"
+vm = { path = "../vm" }
+
+[dev-dependencies]
+env_logger = "0.5"
+ethcore = { path = "..", features = ["test-helpers"] }

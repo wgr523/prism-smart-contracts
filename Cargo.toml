@@ -1,0 +1,65 @@
+[package]
+name = "prism"
+version = "0.1.0"
+authors = []
+edition = "2020"
+
+[profile.dev]
+opt-level = 3
+
+[dependencies]
+ring = ""
+bincode = "1.2"
+serde_derive = "1.0"
+serde = "1.0"
+hex-literal = "0.2"
+log = "0.4"
+stderrlog = "0.4"
+mio = "0.6"
+slab = "0.4"
+rand = "0.6"
+enum-display-derive="0.1"
+mio-extras = "2.0"
+bigint = "4"
+serde_json = "1.0"
+tiny_http = "0.6"
+ctrlc = "3.1"
+lazy_static = "1.4"
+hex = "0.4"
+url = "2.1"
+base64 = "0.10"
+crossbeam = "0.7"
+statrs = "0.12"
+
+ethereum-types = "0.8.0"
+rlp = "0.4.0"
+keccak-hash = "0.4.0"
+parity-crypto = { version = "0.4.2", features = ["publickey"] }
+kvdb = "0.2"
+parity-bytes = "0.1.0"
+
+parity-ethereum = { path = "parity-ethereum" }
+ethcore = { path = "parity-ethereum/ethcore" }
+journaldb = { path = "parity-ethereum/util/journaldb" }
+account-state = { path = "parity-ethereum/ethcore/account-state" }
+state-db = { path = "parity-ethereum/ethcore/state-db" }
+spec = { path = "parity-ethereum/ethcore/spec" }
+trie-vm-factories = { path = "parity-ethereum/ethcore/trie-vm-factories" }
+common-types = { path = "parity-ethereum/ethcore/types" }
+patricia-trie-ethereum = { path = "parity-ethereum/util/patricia-trie-ethereum" }
+vm = { path = "parity-ethereum/ethcore/vm" }
+machine = { path = "parity-ethereum/ethcore/machine" }
+executive-state = { path = "parity-ethereum/ethcore/executive-state" }
+trace = { path = "parity-ethereum/ethcore/trace" }
+
+[dependencies.rocksdb]
+default-features = false
+features = ["snappy"]
+version = "0.13"
+
+[dev-dependencies]
+ethcore = { path = "parity-ethereum/ethcore", features = ["test-helpers"] }
+
+[dependencies.clap]
+version = "2.33"
+features = [ "wrap_help" ]

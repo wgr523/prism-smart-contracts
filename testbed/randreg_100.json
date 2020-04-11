@@ -1,0 +1,906 @@
+{
+    "connections": [
+        {
+            "from": "node_10",
+            "to": "node_95"
+        },
+        {
+            "from": "node_10",
+            "to": "node_75"
+        },
+        {
+            "from": "node_10",
+            "to": "node_70"
+        },
+        {
+            "from": "node_10",
+            "to": "node_32"
+        },
+        {
+            "from": "node_95",
+            "to": "node_79"
+        },
+        {
+            "from": "node_95",
+            "to": "node_74"
+        },
+        {
+            "from": "node_95",
+            "to": "node_93"
+        },
+        {
+            "from": "node_28",
+            "to": "node_41"
+        },
+        {
+            "from": "node_28",
+            "to": "node_1"
+        },
+        {
+            "from": "node_28",
+            "to": "node_22"
+        },
+        {
+            "from": "node_28",
+            "to": "node_23"
+        },
+        {
+            "from": "node_41",
+            "to": "node_22"
+        },
+        {
+            "from": "node_41",
+            "to": "node_90"
+        },
+        {
+            "from": "node_41",
+            "to": "node_54"
+        },
+        {
+            "from": "node_7",
+            "to": "node_82"
+        },
+        {
+            "from": "node_7",
+            "to": "node_97"
+        },
+        {
+            "from": "node_7",
+            "to": "node_21"
+        },
+        {
+            "from": "node_7",
+            "to": "node_67"
+        },
+        {
+            "from": "node_82",
+            "to": "node_48"
+        },
+        {
+            "from": "node_82",
+            "to": "node_45"
+        },
+        {
+            "from": "node_82",
+            "to": "node_36"
+        },
+        {
+            "from": "node_38",
+            "to": "node_67"
+        },
+        {
+            "from": "node_38",
+            "to": "node_8"
+        },
+        {
+            "from": "node_38",
+            "to": "node_68"
+        },
+        {
+            "from": "node_38",
+            "to": "node_75"
+        },
+        {
+            "from": "node_67",
+            "to": "node_52"
+        },
+        {
+            "from": "node_67",
+            "to": "node_23"
+        },
+        {
+            "from": "node_63",
+            "to": "node_76"
+        },
+        {
+            "from": "node_63",
+            "to": "node_34"
+        },
+        {
+            "from": "node_63",
+            "to": "node_97"
+        },
+        {
+            "from": "node_63",
+            "to": "node_65"
+        },
+        {
+            "from": "node_76",
+            "to": "node_78"
+        },
+        {
+            "from": "node_76",
+            "to": "node_5"
+        },
+        {
+            "from": "node_76",
+            "to": "node_74"
+        },
+        {
+            "from": "node_34",
+            "to": "node_35"
+        },
+        {
+            "from": "node_34",
+            "to": "node_17"
+        },
+        {
+            "from": "node_34",
+            "to": "node_49"
+        },
+        {
+            "from": "node_35",
+            "to": "node_51"
+        },
+        {
+            "from": "node_35",
+            "to": "node_24"
+        },
+        {
+            "from": "node_35",
+            "to": "node_93"
+        },
+        {
+            "from": "node_83",
+            "to": "node_86"
+        },
+        {
+            "from": "node_83",
+            "to": "node_17"
+        },
+        {
+            "from": "node_83",
+            "to": "node_93"
+        },
+        {
+            "from": "node_83",
+            "to": "node_37"
+        },
+        {
+            "from": "node_86",
+            "to": "node_79"
+        },
+        {
+            "from": "node_86",
+            "to": "node_47"
+        },
+        {
+            "from": "node_86",
+            "to": "node_54"
+        },
+        {
+            "from": "node_18",
+            "to": "node_30"
+        },
+        {
+            "from": "node_18",
+            "to": "node_31"
+        },
+        {
+            "from": "node_18",
+            "to": "node_1"
+        },
+        {
+            "from": "node_18",
+            "to": "node_74"
+        },
+        {
+            "from": "node_30",
+            "to": "node_99"
+        },
+        {
+            "from": "node_30",
+            "to": "node_37"
+        },
+        {
+            "from": "node_30",
+            "to": "node_96"
+        },
+        {
+            "from": "node_46",
+            "to": "node_61"
+        },
+        {
+            "from": "node_46",
+            "to": "node_25"
+        },
+        {
+            "from": "node_46",
+            "to": "node_9"
+        },
+        {
+            "from": "node_46",
+            "to": "node_55"
+        },
+        {
+            "from": "node_61",
+            "to": "node_59"
+        },
+        {
+            "from": "node_61",
+            "to": "node_96"
+        },
+        {
+            "from": "node_61",
+            "to": "node_19"
+        },
+        {
+            "from": "node_12",
+            "to": "node_40"
+        },
+        {
+            "from": "node_12",
+            "to": "node_13"
+        },
+        {
+            "from": "node_12",
+            "to": "node_98"
+        },
+        {
+            "from": "node_12",
+            "to": "node_51"
+        },
+        {
+            "from": "node_40",
+            "to": "node_27"
+        },
+        {
+            "from": "node_40",
+            "to": "node_78"
+        },
+        {
+            "from": "node_40",
+            "to": "node_65"
+        },
+        {
+            "from": "node_27",
+            "to": "node_55"
+        },
+        {
+            "from": "node_27",
+            "to": "node_0"
+        },
+        {
+            "from": "node_27",
+            "to": "node_75"
+        },
+        {
+            "from": "node_55",
+            "to": "node_22"
+        },
+        {
+            "from": "node_55",
+            "to": "node_78"
+        },
+        {
+            "from": "node_23",
+            "to": "node_69"
+        },
+        {
+            "from": "node_23",
+            "to": "node_70"
+        },
+        {
+            "from": "node_69",
+            "to": "node_11"
+        },
+        {
+            "from": "node_69",
+            "to": "node_24"
+        },
+        {
+            "from": "node_69",
+            "to": "node_97"
+        },
+        {
+            "from": "node_22",
+            "to": "node_80"
+        },
+        {
+            "from": "node_47",
+            "to": "node_53"
+        },
+        {
+            "from": "node_47",
+            "to": "node_87"
+        },
+        {
+            "from": "node_47",
+            "to": "node_84"
+        },
+        {
+            "from": "node_53",
+            "to": "node_33"
+        },
+        {
+            "from": "node_53",
+            "to": "node_87"
+        },
+        {
+            "from": "node_53",
+            "to": "node_77"
+        },
+        {
+            "from": "node_5",
+            "to": "node_71"
+        },
+        {
+            "from": "node_5",
+            "to": "node_80"
+        },
+        {
+            "from": "node_5",
+            "to": "node_48"
+        },
+        {
+            "from": "node_71",
+            "to": "node_96"
+        },
+        {
+            "from": "node_71",
+            "to": "node_85"
+        },
+        {
+            "from": "node_71",
+            "to": "node_19"
+        },
+        {
+            "from": "node_13",
+            "to": "node_58"
+        },
+        {
+            "from": "node_13",
+            "to": "node_50"
+        },
+        {
+            "from": "node_13",
+            "to": "node_36"
+        },
+        {
+            "from": "node_58",
+            "to": "node_65"
+        },
+        {
+            "from": "node_58",
+            "to": "node_56"
+        },
+        {
+            "from": "node_58",
+            "to": "node_44"
+        },
+        {
+            "from": "node_3",
+            "to": "node_62"
+        },
+        {
+            "from": "node_3",
+            "to": "node_94"
+        },
+        {
+            "from": "node_3",
+            "to": "node_0"
+        },
+        {
+            "from": "node_3",
+            "to": "node_19"
+        },
+        {
+            "from": "node_62",
+            "to": "node_80"
+        },
+        {
+            "from": "node_62",
+            "to": "node_59"
+        },
+        {
+            "from": "node_62",
+            "to": "node_60"
+        },
+        {
+            "from": "node_78",
+            "to": "node_89"
+        },
+        {
+            "from": "node_80",
+            "to": "node_66"
+        },
+        {
+            "from": "node_1",
+            "to": "node_31"
+        },
+        {
+            "from": "node_1",
+            "to": "node_85"
+        },
+        {
+            "from": "node_8",
+            "to": "node_60"
+        },
+        {
+            "from": "node_8",
+            "to": "node_48"
+        },
+        {
+            "from": "node_8",
+            "to": "node_26"
+        },
+        {
+            "from": "node_60",
+            "to": "node_81"
+        },
+        {
+            "from": "node_60",
+            "to": "node_44"
+        },
+        {
+            "from": "node_25",
+            "to": "node_66"
+        },
+        {
+            "from": "node_25",
+            "to": "node_37"
+        },
+        {
+            "from": "node_25",
+            "to": "node_51"
+        },
+        {
+            "from": "node_66",
+            "to": "node_84"
+        },
+        {
+            "from": "node_66",
+            "to": "node_6"
+        },
+        {
+            "from": "node_21",
+            "to": "node_81"
+        },
+        {
+            "from": "node_21",
+            "to": "node_64"
+        },
+        {
+            "from": "node_21",
+            "to": "node_16"
+        },
+        {
+            "from": "node_81",
+            "to": "node_75"
+        },
+        {
+            "from": "node_81",
+            "to": "node_24"
+        },
+        {
+            "from": "node_73",
+            "to": "node_88"
+        },
+        {
+            "from": "node_73",
+            "to": "node_26"
+        },
+        {
+            "from": "node_73",
+            "to": "node_20"
+        },
+        {
+            "from": "node_73",
+            "to": "node_39"
+        },
+        {
+            "from": "node_88",
+            "to": "node_29"
+        },
+        {
+            "from": "node_88",
+            "to": "node_57"
+        },
+        {
+            "from": "node_88",
+            "to": "node_89"
+        },
+        {
+            "from": "node_59",
+            "to": "node_49"
+        },
+        {
+            "from": "node_59",
+            "to": "node_93"
+        },
+        {
+            "from": "node_42",
+            "to": "node_98"
+        },
+        {
+            "from": "node_42",
+            "to": "node_39"
+        },
+        {
+            "from": "node_42",
+            "to": "node_99"
+        },
+        {
+            "from": "node_42",
+            "to": "node_65"
+        },
+        {
+            "from": "node_98",
+            "to": "node_70"
+        },
+        {
+            "from": "node_98",
+            "to": "node_9"
+        },
+        {
+            "from": "node_79",
+            "to": "node_29"
+        },
+        {
+            "from": "node_79",
+            "to": "node_16"
+        },
+        {
+            "from": "node_54",
+            "to": "node_89"
+        },
+        {
+            "from": "node_54",
+            "to": "node_45"
+        },
+        {
+            "from": "node_89",
+            "to": "node_68"
+        },
+        {
+            "from": "node_14",
+            "to": "node_94"
+        },
+        {
+            "from": "node_14",
+            "to": "node_6"
+        },
+        {
+            "from": "node_14",
+            "to": "node_56"
+        },
+        {
+            "from": "node_14",
+            "to": "node_72"
+        },
+        {
+            "from": "node_94",
+            "to": "node_36"
+        },
+        {
+            "from": "node_94",
+            "to": "node_56"
+        },
+        {
+            "from": "node_70",
+            "to": "node_92"
+        },
+        {
+            "from": "node_85",
+            "to": "node_87"
+        },
+        {
+            "from": "node_85",
+            "to": "node_29"
+        },
+        {
+            "from": "node_87",
+            "to": "node_72"
+        },
+        {
+            "from": "node_56",
+            "to": "node_16"
+        },
+        {
+            "from": "node_20",
+            "to": "node_32"
+        },
+        {
+            "from": "node_20",
+            "to": "node_49"
+        },
+        {
+            "from": "node_20",
+            "to": "node_39"
+        },
+        {
+            "from": "node_32",
+            "to": "node_97"
+        },
+        {
+            "from": "node_32",
+            "to": "node_92"
+        },
+        {
+            "from": "node_44",
+            "to": "node_50"
+        },
+        {
+            "from": "node_44",
+            "to": "node_90"
+        },
+        {
+            "from": "node_50",
+            "to": "node_2"
+        },
+        {
+            "from": "node_50",
+            "to": "node_77"
+        },
+        {
+            "from": "node_36",
+            "to": "node_52"
+        },
+        {
+            "from": "node_31",
+            "to": "node_4"
+        },
+        {
+            "from": "node_31",
+            "to": "node_52"
+        },
+        {
+            "from": "node_90",
+            "to": "node_52"
+        },
+        {
+            "from": "node_90",
+            "to": "node_43"
+        },
+        {
+            "from": "node_19",
+            "to": "node_49"
+        },
+        {
+            "from": "node_39",
+            "to": "node_15"
+        },
+        {
+            "from": "node_45",
+            "to": "node_57"
+        },
+        {
+            "from": "node_45",
+            "to": "node_11"
+        },
+        {
+            "from": "node_0",
+            "to": "node_9"
+        },
+        {
+            "from": "node_0",
+            "to": "node_26"
+        },
+        {
+            "from": "node_17",
+            "to": "node_4"
+        },
+        {
+            "from": "node_17",
+            "to": "node_92"
+        },
+        {
+            "from": "node_29",
+            "to": "node_72"
+        },
+        {
+            "from": "node_26",
+            "to": "node_2"
+        },
+        {
+            "from": "node_15",
+            "to": "node_43"
+        },
+        {
+            "from": "node_15",
+            "to": "node_91"
+        },
+        {
+            "from": "node_15",
+            "to": "node_68"
+        },
+        {
+            "from": "node_43",
+            "to": "node_24"
+        },
+        {
+            "from": "node_43",
+            "to": "node_33"
+        },
+        {
+            "from": "node_51",
+            "to": "node_77"
+        },
+        {
+            "from": "node_16",
+            "to": "node_57"
+        },
+        {
+            "from": "node_57",
+            "to": "node_68"
+        },
+        {
+            "from": "node_4",
+            "to": "node_84"
+        },
+        {
+            "from": "node_4",
+            "to": "node_64"
+        },
+        {
+            "from": "node_84",
+            "to": "node_48"
+        },
+        {
+            "from": "node_6",
+            "to": "node_77"
+        },
+        {
+            "from": "node_6",
+            "to": "node_91"
+        },
+        {
+            "from": "node_9",
+            "to": "node_91"
+        },
+        {
+            "from": "node_91",
+            "to": "node_99"
+        },
+        {
+            "from": "node_11",
+            "to": "node_72"
+        },
+        {
+            "from": "node_11",
+            "to": "node_64"
+        },
+        {
+            "from": "node_2",
+            "to": "node_64"
+        },
+        {
+            "from": "node_2",
+            "to": "node_33"
+        },
+        {
+            "from": "node_74",
+            "to": "node_99"
+        },
+        {
+            "from": "node_96",
+            "to": "node_92"
+        },
+        {
+            "from": "node_33",
+            "to": "node_37"
+        }
+    ],
+    "nodes": [
+        "node_10",
+        "node_95",
+        "node_28",
+        "node_41",
+        "node_7",
+        "node_82",
+        "node_38",
+        "node_67",
+        "node_63",
+        "node_76",
+        "node_34",
+        "node_35",
+        "node_83",
+        "node_86",
+        "node_18",
+        "node_30",
+        "node_46",
+        "node_61",
+        "node_12",
+        "node_40",
+        "node_27",
+        "node_55",
+        "node_23",
+        "node_69",
+        "node_22",
+        "node_47",
+        "node_53",
+        "node_5",
+        "node_71",
+        "node_13",
+        "node_58",
+        "node_3",
+        "node_62",
+        "node_78",
+        "node_80",
+        "node_1",
+        "node_8",
+        "node_60",
+        "node_25",
+        "node_66",
+        "node_21",
+        "node_81",
+        "node_73",
+        "node_88",
+        "node_59",
+        "node_42",
+        "node_98",
+        "node_79",
+        "node_54",
+        "node_89",
+        "node_75",
+        "node_65",
+        "node_14",
+        "node_94",
+        "node_70",
+        "node_85",
+        "node_87",
+        "node_56",
+        "node_20",
+        "node_32",
+        "node_44",
+        "node_50",
+        "node_36",
+        "node_31",
+        "node_97",
+        "node_90",
+        "node_52",
+        "node_19",
+        "node_49",
+        "node_39",
+        "node_45",
+        "node_0",
+        "node_17",
+        "node_29",
+        "node_26",
+        "node_15",
+        "node_43",
+        "node_51",
+        "node_16",
+        "node_57",
+        "node_4",
+        "node_84",
+        "node_6",
+        "node_9",
+        "node_91",
+        "node_11",
+        "node_72",
+        "node_2",
+        "node_64",
+        "node_77",
+        "node_24",
+        "node_74",
+        "node_96",
+        "node_48",
+        "node_33",
+        "node_99",
+        "node_37",
+        "node_68",
+        "node_93",
+        "node_92"
+    ]
+}

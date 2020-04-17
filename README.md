@@ -6,7 +6,10 @@ This project requires Rust `nightly`. To build the binary, run `cargo build --re
 
 The first build could take several mintues, mostly due to building dependencies from Ethereum.
 
-## Testbed and Reproducing
+## Reproducing main results
 
 The scripts used in the evaluation section of the paper are located in `/testbed`. `/testbed/README.md` provides instructions for running the experiments and reproducing the results.
 
+## Reproducing VM Executor Only 
+
+As for VM Executor Only result, you can run `cargo run --release --example vm_executor_only`.

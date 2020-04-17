@@ -2,7 +2,8 @@
 name = "prism"
 version = "0.1.0"
 authors = []
-edition = "2020"
+edition = "2018"
+description = "Inspired by https://github.com/yangl1996/prism-rust"
 
 [profile.dev]
 opt-level = 3

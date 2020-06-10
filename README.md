@@ -4,7 +4,7 @@
 
 __Prism Removes Consensus Bottleneck for Smart Contracts__ [\[full text\]](http://arxiv.org/abs/2004.08776)
 
-_Gerui Wang, Shuo Wang, Vivek Bagaria, David Tse, Pramod Viswanath_
+_Gerui Wang (UIUC), Shuo Wang (Stanford University), Vivek Bagaria (Stanford University), David Tse (Stanford University), Pramod Viswanath (UIUC)_
 
 Abstract: The performance of existing permissionless smart contract platforms such as Ethereum is limited by the consensus layer. Prism is a new proof-of-work consensus protocol that provably achieves throughput and latency up to physical limits while retaining the strong guarantees of the longest chain protocol. This paper reports experimental results from implementations of two smart contract virtual machines, EVM and MoveVM, on top of Prism and demonstrates that the consensus bottleneck has been removed.
 

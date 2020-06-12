@@ -2,6 +2,6 @@ Prism Smart Contract
 
 LICENSE
 
-All directories except directory `parity-ethereum` are under MIT license (refer to `LICENSE_MIT`.
+All directories except directory `parity-ethereum` are under MIT license (refer to `LICENSE_MIT`).
 
 Directory `parity-ethereum` is under GPL 3 license (refer to `LICENSE_GPL`).

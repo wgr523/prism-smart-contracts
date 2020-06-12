@@ -25,3 +25,7 @@ Simply run `cargo run --release --example vm_executor_only`.
 ## Acknowledgement
 
 This repository is forked from [Prism: Scaling Bitcoin by 10,000x](https://github.com/yangl1996/prism-rust) and [Parity Ethereum](https://github.com/openethereum/openethereum).
+
+## License
+
+See `LICENSE`.
